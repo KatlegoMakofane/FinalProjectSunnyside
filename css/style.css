@@ -18,7 +18,7 @@
        margin-left: 16px;
        font-size :30px;
        color: white;
-        background-color:DeepSkyBlue;
+       background-color:DeepSkyBlue;
        align:left;
 
 }
@@ -27,6 +27,7 @@ main {
 }
 nav {
     margin-right: 16px;
+   background-color:DeepSkyBlue;
     
 }
 a {
